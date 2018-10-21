@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c1f6c0d8-9013-4d81-ba7f-b12a4cab6aa9" name="Default" comment="added referenceID.txt">
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/.ipynb_checkpoints/Case Study 1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/.ipynb_checkpoints/Case Study 1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/Case Study 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/Case Study 1.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,46 +59,55 @@
     <session id="237909009">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="22" />
-          <entry key="py" value="368" />
+          <entry key="py" value="844" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="1" />
-          <entry key="Python" value="1" />
+          <entry key="IPNB" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="368" />
+          <entry key="Python" value="844" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="1" />
-          <entry key="py" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="ipynb" value="2" />
+          <entry key="py" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rough.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Module3/Case Study 1.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="14" />
             </state>
           </provider>
         </entry>
@@ -142,14 +154,14 @@
         <option value="$PROJECT_DIR$/Telecom/referenceID.txt" />
         <option value="$PROJECT_DIR$/Telecom/ReadFileContent.py" />
         <option value="$PROJECT_DIR$/Telecom/Telecom.py" />
-        <option value="$PROJECT_DIR$/Module3/Case Study 1.ipynb" />
         <option value="$PROJECT_DIR$/rough.py" />
+        <option value="$PROJECT_DIR$/Module3/Case Study 1.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="238" />
-    <option name="width" value="1422" />
+    <option name="x" value="234" />
+    <option name="width" value="1426" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
@@ -182,6 +194,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell-7560\PycharmProjects\Edureka_Assignments" />
       <recent name="D:\Users\Dell-7560\PycharmProjects\Edureka_Assignments\Module1" />
     </key>
   </component>
@@ -198,6 +211,23 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.rough">
+    <configuration name="Edureka_Assignments" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="Edureka_Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
     <configuration name="Question18" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Edureka_Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -304,6 +334,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Jupyter Notebook.Edureka_Assignments" />
       <item itemvalue="Python.Question18" />
       <item itemvalue="Python.Question19" />
       <item itemvalue="Python.Telecom" />
@@ -327,7 +358,7 @@
     <frame x="-7" y="-7" width="1488" height="843" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24930748" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24930748" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
@@ -556,17 +587,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rough.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Module3/Case Study 1.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rough.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <selected id="14" />
         </state>
       </provider>
     </entry>
